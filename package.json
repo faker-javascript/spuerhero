@@ -1,6 +1,6 @@
 {
   "name": "@fakerjs/superhero",
-  "version": "2.0.1",
+  "version": "1.0.0",
   "description": "Superhero package provides functionality to generate a fake superhero name value.",
   "license": "MIT",
   "repository": "faker-javascript/superhero",
