@@ -1,6 +1,6 @@
-import superhero from './index.js';
 import test from 'ava';
+import superhero from './index.js';
 
 test('superhero return type to be string', t => {
-	t.is(typeof superhero(), 'string');
+    t.is(typeof superhero(), 'string');
 });
