@@ -4,7 +4,8 @@ Superhero package provides functionality to generate a fake superhero name value
 </p>
 
 <p align="center">
-<a href="https://github.com/faker-javascript/superhero/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/superhero.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/superhero"> <a href="https://github.com/faker-javascript/superhero"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a> <img src="https://github.com/faker-javascript/superhero/actions/workflows/tests.yml/badge.svg">
+<a href="https://github.com/faker-javascript/superhero/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/superhero.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/superhero"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/superhero"> <a href="https://github.com/faker-javascript/superhero/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/superhero/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/superhero"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a>
+</p>
 
 ## Install
 
