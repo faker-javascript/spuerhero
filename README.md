@@ -9,8 +9,14 @@ Superhero package provides functionality to generate a fake superhero name value
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/superhero
+npm install @fakerjs/superhero --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/superhero -D
 ```
 
 ## Usage
