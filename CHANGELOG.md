@@ -1,3 +1,7 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/faker-javascript/superhero) (2022-01-26)
+* Improve and simplify logic
+
 <a name="1.1.1"></a>
 # [1.1.1](https://github.com/faker-javascript/superhero) (2022-01-15)
 * Typo updates.
